@@ -67,7 +67,7 @@ static void Relay_Update (uint8_t value) {
 
 #ifdef Debug_relay
 static void Relay_DebugPrint (uint8_t oldVal, uint8_t newVal) {
-    printf ("\r\n[Relay Update] 0x%X Â¡Ãº 0x%X | State: ", oldVal, newVal);
+    printf ("\r\n[Relay Update] 0x%X ¡ú 0x%X | State: ", oldVal, newVal);
 
     for (int i = 0; i < 4; i++) {
         if (newVal & (1 << i))

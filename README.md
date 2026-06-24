@@ -262,19 +262,19 @@ Add screenshots of:
 
 ---
 
-### Demo Video
+### Hardware
 
 
 ## RelayModule
 
-![Image Description](Images/Relay_module_bottom.png)
-![Image Description](Images/Relay_module_top.png)
+![Image Description](/Relay_module_bottom.png)
+![Image Description](/Relay_module_top.png)
 
 
 ## FanModule
 
-![Image Description](Images/Fan_module_bottom.png)
-![Image Description](Images/Fan_module_top.png)
+![Image Description](/Fan_module_bottom.png)
+![Image Description](/Fan_module_top.png)
 
 ---
 

@@ -262,13 +262,19 @@ Add screenshots of:
 
 ---
 
-## Demo Video
+### Demo Video
 
-```markdown
-## 🎥 Demo Video
 
-[▶ Watch Demo](./i2c_smart_switch_demo.mp4)
-```
+## RelayModule
+
+![Image Description](Images/Relay_module_bottom.png)
+![Image Description](Images/Relay_module_top.png)
+
+
+## FanModule
+
+![Image Description](Images/Fan_module_bottom.png)
+![Image Description](Images/Fan_module_top.png)
 
 ---
 
